@@ -7,3 +7,5 @@
 3.) [Eloquent Model Events / Observers](https://medium.com/@mbuguamagdaline/eloquent-model-events-360a2ba0d91c)
 
 4.) [Laravel ORION API Package](https://tailflow.github.io/laravel-orion-docs/)
+
+5.) [Laravel Cool Packages by Laravel Daily. ](https://laraveldaily.com/packages)
