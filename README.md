@@ -9,3 +9,5 @@
 4.) [Laravel ORION API Package](https://tailflow.github.io/laravel-orion-docs/)
 
 5.) [Laravel Cool Packages by Laravel Daily. ](https://laraveldaily.com/packages)
+
+//https://medium.com/streamelements/building-a-product-design-editor-4fe7750bbea3
