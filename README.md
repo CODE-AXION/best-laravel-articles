@@ -1,4 +1,4 @@
-# Best Laravel Articles
+# Some Cool Tech Websites And Laravel Articles
 
 1.) [Optimizing Large Datasets in Laravel with Table Partitions](https://medium.com/@babarmalik6444/optimizing-large-datasets-in-laravel-with-table-partitioning-20dc2623dab0) 
 
@@ -13,3 +13,5 @@
 //https://medium.com/streamelements/building-a-product-design-editor-4fe7750bbea3
 
 https://simpleicons.org/
+
+https://www.prismane.io/docs/components/button
