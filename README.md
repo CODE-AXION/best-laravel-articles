@@ -15,3 +15,5 @@
 https://simpleicons.org/
 
 https://www.prismane.io/docs/components/button
+
+https://stacksorted.com/customCursor
