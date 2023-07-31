@@ -19,3 +19,6 @@ https://www.prismane.io/docs/components/button
 https://stacksorted.com/customCursor
 
 https://iconbuddy.app/fa6-brands
+
+signed urls in laravel article
+
